@@ -1,0 +1,13 @@
+E:\prog\cs\GridFilter\GridFilter\bin\Debug\GridFilter.exe.config
+E:\prog\cs\GridFilter\GridFilter\bin\Debug\GridFilter.exe
+E:\prog\cs\GridFilter\GridFilter\bin\Debug\GridFilter.pdb
+E:\prog\cs\GridFilter\GridFilter\bin\Debug\EntityFramework.dll
+E:\prog\cs\GridFilter\GridFilter\bin\Debug\EntityFramework.SqlServer.dll
+E:\prog\cs\GridFilter\GridFilter\bin\Debug\EntityFramework.xml
+E:\prog\cs\GridFilter\GridFilter\bin\Debug\EntityFramework.SqlServer.xml
+E:\prog\cs\GridFilter\GridFilter\obj\Debug\GridFilter.csprojResolveAssemblyReference.cache
+E:\prog\cs\GridFilter\GridFilter\obj\Debug\GridFilter.Form1.resources
+E:\prog\cs\GridFilter\GridFilter\obj\Debug\GridFilter.Properties.Resources.resources
+E:\prog\cs\GridFilter\GridFilter\obj\Debug\GridFilter.csproj.GenerateResource.Cache
+E:\prog\cs\GridFilter\GridFilter\obj\Debug\GridFilter.exe
+E:\prog\cs\GridFilter\GridFilter\obj\Debug\GridFilter.pdb
